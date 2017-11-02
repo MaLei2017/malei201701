@@ -1,0 +1,6 @@
+public calss malei201701{
+  public static void main(String args[]){
+    System.out.println("Helloworld!");
+    System.out.println("My first code in Github!");
+    }
+}
